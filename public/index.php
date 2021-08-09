@@ -1,0 +1,10 @@
+<?php include_once('partials-front/header.php'); ?>
+<?php include_once('partials-front/navbar.php'); ?>
+<?php include_once('partials-front/hero.php'); ?>
+<?php include_once('partials-front/reservation-btn.php'); ?>
+<?php include_once('partials-front/greatings.php'); ?>
+<?php include_once('partials-front/about.php'); ?>
+<?php include_once('partials-front/activity-category.php'); ?>
+<?php include_once('partials-front/rooms.php'); ?>
+<?php include_once('partials-front/contact.php'); ?>
+<?php include_once('partials-front/footer.php'); ?>
